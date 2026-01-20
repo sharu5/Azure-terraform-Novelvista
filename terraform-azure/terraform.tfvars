@@ -1,8 +1,8 @@
 # Azure Configuration
 #subscription_id                 = "your susbcription -id"
-resource_group_name             = "azureskf-T"
+resource_group_name             = "azureskf-10"
 resource_provider_registrations = "none"
-location                        = "eastus"
+location                        = "Central India"
 vnet_name                       = "three-tier-vnet"
 
 # Core Configuration
